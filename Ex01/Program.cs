@@ -34,6 +34,9 @@ static void Menu()
         case 2:
             System.Environment.Exit(0);
             break;
+        default:
+            Menu();
+            break;
     }
 }
 
