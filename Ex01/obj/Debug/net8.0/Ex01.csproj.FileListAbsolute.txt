@@ -12,3 +12,4 @@ C:\ExerciciosAlgoritmosCsharp\Ex01\obj\Debug\net8.0\refint\Ex01.dll
 C:\ExerciciosAlgoritmosCsharp\Ex01\obj\Debug\net8.0\Ex01.pdb
 C:\ExerciciosAlgoritmosCsharp\Ex01\obj\Debug\net8.0\Ex01.genruntimeconfig.cache
 C:\ExerciciosAlgoritmosCsharp\Ex01\obj\Debug\net8.0\ref\Ex01.dll
+C:\ExerciciosAlgoritmosCsharp\Ex01\obj\Debug\net8.0\Ex01.sourcelink.json
