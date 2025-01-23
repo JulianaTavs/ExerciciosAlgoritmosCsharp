@@ -1,0 +1,15 @@
+C:\ExerciciosAlgoritmosCsharp\Ex17\bin\Debug\net8.0\Ex17.exe
+C:\ExerciciosAlgoritmosCsharp\Ex17\bin\Debug\net8.0\Ex17.deps.json
+C:\ExerciciosAlgoritmosCsharp\Ex17\bin\Debug\net8.0\Ex17.runtimeconfig.json
+C:\ExerciciosAlgoritmosCsharp\Ex17\bin\Debug\net8.0\Ex17.dll
+C:\ExerciciosAlgoritmosCsharp\Ex17\bin\Debug\net8.0\Ex17.pdb
+C:\ExerciciosAlgoritmosCsharp\Ex17\obj\Debug\net8.0\Ex17.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExerciciosAlgoritmosCsharp\Ex17\obj\Debug\net8.0\Ex17.AssemblyInfoInputs.cache
+C:\ExerciciosAlgoritmosCsharp\Ex17\obj\Debug\net8.0\Ex17.AssemblyInfo.cs
+C:\ExerciciosAlgoritmosCsharp\Ex17\obj\Debug\net8.0\Ex17.csproj.CoreCompileInputs.cache
+C:\ExerciciosAlgoritmosCsharp\Ex17\obj\Debug\net8.0\Ex17.sourcelink.json
+C:\ExerciciosAlgoritmosCsharp\Ex17\obj\Debug\net8.0\Ex17.dll
+C:\ExerciciosAlgoritmosCsharp\Ex17\obj\Debug\net8.0\refint\Ex17.dll
+C:\ExerciciosAlgoritmosCsharp\Ex17\obj\Debug\net8.0\Ex17.pdb
+C:\ExerciciosAlgoritmosCsharp\Ex17\obj\Debug\net8.0\Ex17.genruntimeconfig.cache
+C:\ExerciciosAlgoritmosCsharp\Ex17\obj\Debug\net8.0\ref\Ex17.dll
