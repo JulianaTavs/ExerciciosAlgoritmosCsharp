@@ -1,0 +1,15 @@
+C:\ExerciciosAlgoritmosCsharp\Ex19ToUpload\bin\Debug\net8.0\Ex19ToUpload.exe
+C:\ExerciciosAlgoritmosCsharp\Ex19ToUpload\bin\Debug\net8.0\Ex19ToUpload.deps.json
+C:\ExerciciosAlgoritmosCsharp\Ex19ToUpload\bin\Debug\net8.0\Ex19ToUpload.runtimeconfig.json
+C:\ExerciciosAlgoritmosCsharp\Ex19ToUpload\bin\Debug\net8.0\Ex19ToUpload.dll
+C:\ExerciciosAlgoritmosCsharp\Ex19ToUpload\bin\Debug\net8.0\Ex19ToUpload.pdb
+C:\ExerciciosAlgoritmosCsharp\Ex19ToUpload\obj\Debug\net8.0\Ex19ToUpload.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExerciciosAlgoritmosCsharp\Ex19ToUpload\obj\Debug\net8.0\Ex19ToUpload.AssemblyInfoInputs.cache
+C:\ExerciciosAlgoritmosCsharp\Ex19ToUpload\obj\Debug\net8.0\Ex19ToUpload.AssemblyInfo.cs
+C:\ExerciciosAlgoritmosCsharp\Ex19ToUpload\obj\Debug\net8.0\Ex19ToUpload.csproj.CoreCompileInputs.cache
+C:\ExerciciosAlgoritmosCsharp\Ex19ToUpload\obj\Debug\net8.0\Ex19ToUpload.sourcelink.json
+C:\ExerciciosAlgoritmosCsharp\Ex19ToUpload\obj\Debug\net8.0\Ex19ToUpload.dll
+C:\ExerciciosAlgoritmosCsharp\Ex19ToUpload\obj\Debug\net8.0\refint\Ex19ToUpload.dll
+C:\ExerciciosAlgoritmosCsharp\Ex19ToUpload\obj\Debug\net8.0\Ex19ToUpload.pdb
+C:\ExerciciosAlgoritmosCsharp\Ex19ToUpload\obj\Debug\net8.0\Ex19ToUpload.genruntimeconfig.cache
+C:\ExerciciosAlgoritmosCsharp\Ex19ToUpload\obj\Debug\net8.0\ref\Ex19ToUpload.dll
