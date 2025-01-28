@@ -14,8 +14,6 @@ else
     Console.WriteLine($"O ano {ano} não é BISSEXTO.");
 }
 
-
-
 static int LerAno()
 {
     int numero;
