@@ -1,16 +1,16 @@
-﻿Console.WriteLine("Digite o valor do salário: ");
-float salario = LerNumero();
-float novoSalario = salario + (float)(salario * 0.15);
-Console.WriteLine($"O salario atualizado do funcionário é: R$ {novoSalario}");
+﻿Console.Clear();
+Console.WriteLine("Digite o valor do salário: ");
+decimal salario = LerNumero();
+decimal novoSalario = salario + (salario * 0.15m);
+Console.WriteLine($"O salario atualizado do funcionário é: R$ {novoSalario:F2}");
 
-static float LerNumero()
+static decimal LerNumero()
 {
-    float numero;
+    decimal numero;
 
     while (true)
     {
-        string data = Console.ReadLine();
-        if (float.TryParse(data, out numero))
+        if (decimal.TryParse(Console.ReadLine(), out numero))
         {
             return numero;
         }

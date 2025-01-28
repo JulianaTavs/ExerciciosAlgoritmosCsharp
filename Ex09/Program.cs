@@ -1,22 +1,24 @@
-﻿CalculadoraDeConversao();
+﻿using System.Globalization;
+
+CalculadoraDeConversao();
 static void CalculadoraDeConversao()
 {
     Console.Clear();
     Console.WriteLine("Digite o valor em R$ que você deseja converter para dólar: ");
-    float valor = LerNumero();
+    decimal valor = LerNumero();
 
-    float ValorEmDolar = valor / 6.03f;
-    Console.WriteLine($"A conversão de R${valor} em dólar fica U${ValorEmDolar:F2}");
+    decimal ValorEmDolar = valor / 6.03m;
+    Console.WriteLine($"A conversão de R${valor} para dólar fica {ValorEmDolar.ToString("C",
+        CultureInfo.CreateSpecificCulture("en-US"))}");
 }
-static float LerNumero()
+static decimal LerNumero()
 {
-    float numero;
+    decimal numero;
 
     while (true)
     {
-        string data = Console.ReadLine()!;
 
-        if (float.TryParse(data, out numero))
+        if (decimal.TryParse(Console.ReadLine(), out numero))
         {
             return numero;
         }

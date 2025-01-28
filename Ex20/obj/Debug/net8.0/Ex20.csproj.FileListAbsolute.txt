@@ -1,0 +1,15 @@
+C:\ExerciciosAlgoritmosCsharp\Ex20\bin\Debug\net8.0\Ex20.exe
+C:\ExerciciosAlgoritmosCsharp\Ex20\bin\Debug\net8.0\Ex20.deps.json
+C:\ExerciciosAlgoritmosCsharp\Ex20\bin\Debug\net8.0\Ex20.runtimeconfig.json
+C:\ExerciciosAlgoritmosCsharp\Ex20\bin\Debug\net8.0\Ex20.dll
+C:\ExerciciosAlgoritmosCsharp\Ex20\bin\Debug\net8.0\Ex20.pdb
+C:\ExerciciosAlgoritmosCsharp\Ex20\obj\Debug\net8.0\Ex20.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExerciciosAlgoritmosCsharp\Ex20\obj\Debug\net8.0\Ex20.AssemblyInfoInputs.cache
+C:\ExerciciosAlgoritmosCsharp\Ex20\obj\Debug\net8.0\Ex20.AssemblyInfo.cs
+C:\ExerciciosAlgoritmosCsharp\Ex20\obj\Debug\net8.0\Ex20.csproj.CoreCompileInputs.cache
+C:\ExerciciosAlgoritmosCsharp\Ex20\obj\Debug\net8.0\Ex20.sourcelink.json
+C:\ExerciciosAlgoritmosCsharp\Ex20\obj\Debug\net8.0\Ex20.dll
+C:\ExerciciosAlgoritmosCsharp\Ex20\obj\Debug\net8.0\refint\Ex20.dll
+C:\ExerciciosAlgoritmosCsharp\Ex20\obj\Debug\net8.0\Ex20.pdb
+C:\ExerciciosAlgoritmosCsharp\Ex20\obj\Debug\net8.0\Ex20.genruntimeconfig.cache
+C:\ExerciciosAlgoritmosCsharp\Ex20\obj\Debug\net8.0\ref\Ex20.dll

@@ -1,19 +1,18 @@
 ﻿Console.Clear();
 Console.WriteLine("Digite o preço do produto para calcular o seu desconto: ");
-float preco = LerNumero();
-float desconto = (float)(preco * 0.05);
-float valorPromocional = preco - desconto;
+decimal preco = LerNumero();
+decimal desconto = preco * 0.05m;
+decimal valorPromocional = preco - desconto;
 
-Console.WriteLine($"PREÇO PROMOCIONAL: R$ {valorPromocional}");
+Console.WriteLine($"PREÇO PROMOCIONAL: R$ {valorPromocional:F2}");
 
-static float LerNumero()
+static decimal LerNumero()
 {
-    float numero;
+    decimal numero;
 
     while (true)
     {
-        string data = Console.ReadLine();
-        if (float.TryParse(data, out numero))
+        if (decimal.TryParse(Console.ReadLine(), out numero))
         {
             return numero;
         }

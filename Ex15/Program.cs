@@ -1,8 +1,11 @@
-﻿Console.Clear();
+﻿using System.Globalization;
+
+Console.Clear();
 Console.WriteLine("Digite o número de dias trabalhados no mês: ");
 int diasTrabalhados = LerNumero();
-int salario = diasTrabalhados * (8 * 25);
-Console.WriteLine($"O salário do funcionário é: R$ {salario} ");
+decimal salario = diasTrabalhados * 8 * 25;
+Console.WriteLine($"O salário do funcionário é: {salario.ToString("C",
+    CultureInfo.CreateSpecificCulture("en-GB"))} ");
 
 static int LerNumero()
 {
@@ -10,8 +13,7 @@ static int LerNumero()
 
     while (true)
     {
-        string data = Console.ReadLine();
-        if (int.TryParse(data, out numero))
+        if (int.TryParse(Console.ReadLine(), out numero))
         {
             return numero;
         }

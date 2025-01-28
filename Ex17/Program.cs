@@ -2,7 +2,7 @@
 Console.WriteLine("Digite a velocidade do carro (km/h): ");
 int velocidade = LerNumero();
 int velocidadeExcedente;
-float valorMulta;
+decimal valorMulta;
 
 if (velocidade > 80)
 {

@@ -1,9 +1,8 @@
-﻿using System.ComponentModel;
-Console.Clear();
+﻿Console.Clear();
 Console.WriteLine("Digite a quantidade de Km percorridos pelo carro alugado: ");
 float kmPercorridos = LerNumero();
 Console.WriteLine("Digite a quantidade de dias pelos quais ele foi alugado: ");
-int qtdeDias = 0;
+int qtdeDias;
 
 while (true)
 {
