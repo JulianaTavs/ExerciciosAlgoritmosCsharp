@@ -1,23 +1,23 @@
 ﻿Console.Clear();
 Console.WriteLine("Vamos calcular o valor de delta. Para isso: ");
 Console.WriteLine("Digite o valor de a: ");
-float a = LerNumero();
+double a = LerNumero();
 Console.WriteLine("Digite o valor de b: ");
-float b = LerNumero();
+double b = LerNumero();
 Console.WriteLine("Digite o valor de c: ");
-float c = LerNumero();
+double c = LerNumero();
 
-float delta = (b * b) - (4 * a * c);
+double delta = Math.Pow(b, 2) - (4 * a * c);
 Console.WriteLine($"Delta vale: {delta}");
 
-static float LerNumero()
+static double LerNumero()
 {
-    float numero;
+    double numero;
 
     while (true)
     {
         string data = Console.ReadLine();
-        if (float.TryParse(data, out numero))
+        if (double.TryParse(data, out numero))
         {
             return numero;
         }
