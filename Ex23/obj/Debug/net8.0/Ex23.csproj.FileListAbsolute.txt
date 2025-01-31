@@ -1,0 +1,15 @@
+C:\ExerciciosAlgoritmosCsharp\Ex23\bin\Debug\net8.0\Ex23.exe
+C:\ExerciciosAlgoritmosCsharp\Ex23\bin\Debug\net8.0\Ex23.deps.json
+C:\ExerciciosAlgoritmosCsharp\Ex23\bin\Debug\net8.0\Ex23.runtimeconfig.json
+C:\ExerciciosAlgoritmosCsharp\Ex23\bin\Debug\net8.0\Ex23.dll
+C:\ExerciciosAlgoritmosCsharp\Ex23\bin\Debug\net8.0\Ex23.pdb
+C:\ExerciciosAlgoritmosCsharp\Ex23\obj\Debug\net8.0\Ex23.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExerciciosAlgoritmosCsharp\Ex23\obj\Debug\net8.0\Ex23.AssemblyInfoInputs.cache
+C:\ExerciciosAlgoritmosCsharp\Ex23\obj\Debug\net8.0\Ex23.AssemblyInfo.cs
+C:\ExerciciosAlgoritmosCsharp\Ex23\obj\Debug\net8.0\Ex23.csproj.CoreCompileInputs.cache
+C:\ExerciciosAlgoritmosCsharp\Ex23\obj\Debug\net8.0\Ex23.sourcelink.json
+C:\ExerciciosAlgoritmosCsharp\Ex23\obj\Debug\net8.0\Ex23.dll
+C:\ExerciciosAlgoritmosCsharp\Ex23\obj\Debug\net8.0\refint\Ex23.dll
+C:\ExerciciosAlgoritmosCsharp\Ex23\obj\Debug\net8.0\Ex23.pdb
+C:\ExerciciosAlgoritmosCsharp\Ex23\obj\Debug\net8.0\Ex23.genruntimeconfig.cache
+C:\ExerciciosAlgoritmosCsharp\Ex23\obj\Debug\net8.0\ref\Ex23.dll
