@@ -1,0 +1,15 @@
+C:\ExerciciosAlgoritmosCsharp\Ex24\bin\Debug\net8.0\Ex24.exe
+C:\ExerciciosAlgoritmosCsharp\Ex24\bin\Debug\net8.0\Ex24.deps.json
+C:\ExerciciosAlgoritmosCsharp\Ex24\bin\Debug\net8.0\Ex24.runtimeconfig.json
+C:\ExerciciosAlgoritmosCsharp\Ex24\bin\Debug\net8.0\Ex24.dll
+C:\ExerciciosAlgoritmosCsharp\Ex24\bin\Debug\net8.0\Ex24.pdb
+C:\ExerciciosAlgoritmosCsharp\Ex24\obj\Debug\net8.0\Ex24.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExerciciosAlgoritmosCsharp\Ex24\obj\Debug\net8.0\Ex24.AssemblyInfoInputs.cache
+C:\ExerciciosAlgoritmosCsharp\Ex24\obj\Debug\net8.0\Ex24.AssemblyInfo.cs
+C:\ExerciciosAlgoritmosCsharp\Ex24\obj\Debug\net8.0\Ex24.csproj.CoreCompileInputs.cache
+C:\ExerciciosAlgoritmosCsharp\Ex24\obj\Debug\net8.0\Ex24.sourcelink.json
+C:\ExerciciosAlgoritmosCsharp\Ex24\obj\Debug\net8.0\Ex24.dll
+C:\ExerciciosAlgoritmosCsharp\Ex24\obj\Debug\net8.0\refint\Ex24.dll
+C:\ExerciciosAlgoritmosCsharp\Ex24\obj\Debug\net8.0\Ex24.pdb
+C:\ExerciciosAlgoritmosCsharp\Ex24\obj\Debug\net8.0\Ex24.genruntimeconfig.cache
+C:\ExerciciosAlgoritmosCsharp\Ex24\obj\Debug\net8.0\ref\Ex24.dll
