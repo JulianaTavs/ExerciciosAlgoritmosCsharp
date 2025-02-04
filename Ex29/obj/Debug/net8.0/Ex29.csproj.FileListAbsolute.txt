@@ -1,0 +1,15 @@
+C:\ExerciciosAlgoritmosCsharp\Ex29\bin\Debug\net8.0\Ex29.exe
+C:\ExerciciosAlgoritmosCsharp\Ex29\bin\Debug\net8.0\Ex29.deps.json
+C:\ExerciciosAlgoritmosCsharp\Ex29\bin\Debug\net8.0\Ex29.runtimeconfig.json
+C:\ExerciciosAlgoritmosCsharp\Ex29\bin\Debug\net8.0\Ex29.dll
+C:\ExerciciosAlgoritmosCsharp\Ex29\bin\Debug\net8.0\Ex29.pdb
+C:\ExerciciosAlgoritmosCsharp\Ex29\obj\Debug\net8.0\Ex29.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExerciciosAlgoritmosCsharp\Ex29\obj\Debug\net8.0\Ex29.AssemblyInfoInputs.cache
+C:\ExerciciosAlgoritmosCsharp\Ex29\obj\Debug\net8.0\Ex29.AssemblyInfo.cs
+C:\ExerciciosAlgoritmosCsharp\Ex29\obj\Debug\net8.0\Ex29.csproj.CoreCompileInputs.cache
+C:\ExerciciosAlgoritmosCsharp\Ex29\obj\Debug\net8.0\Ex29.sourcelink.json
+C:\ExerciciosAlgoritmosCsharp\Ex29\obj\Debug\net8.0\Ex29.dll
+C:\ExerciciosAlgoritmosCsharp\Ex29\obj\Debug\net8.0\refint\Ex29.dll
+C:\ExerciciosAlgoritmosCsharp\Ex29\obj\Debug\net8.0\Ex29.pdb
+C:\ExerciciosAlgoritmosCsharp\Ex29\obj\Debug\net8.0\Ex29.genruntimeconfig.cache
+C:\ExerciciosAlgoritmosCsharp\Ex29\obj\Debug\net8.0\ref\Ex29.dll
