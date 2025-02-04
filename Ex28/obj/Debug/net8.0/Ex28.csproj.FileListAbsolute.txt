@@ -1,0 +1,15 @@
+C:\ExerciciosAlgoritmosCsharp\Ex28\bin\Debug\net8.0\Ex28.exe
+C:\ExerciciosAlgoritmosCsharp\Ex28\bin\Debug\net8.0\Ex28.deps.json
+C:\ExerciciosAlgoritmosCsharp\Ex28\bin\Debug\net8.0\Ex28.runtimeconfig.json
+C:\ExerciciosAlgoritmosCsharp\Ex28\bin\Debug\net8.0\Ex28.dll
+C:\ExerciciosAlgoritmosCsharp\Ex28\bin\Debug\net8.0\Ex28.pdb
+C:\ExerciciosAlgoritmosCsharp\Ex28\obj\Debug\net8.0\Ex28.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExerciciosAlgoritmosCsharp\Ex28\obj\Debug\net8.0\Ex28.AssemblyInfoInputs.cache
+C:\ExerciciosAlgoritmosCsharp\Ex28\obj\Debug\net8.0\Ex28.AssemblyInfo.cs
+C:\ExerciciosAlgoritmosCsharp\Ex28\obj\Debug\net8.0\Ex28.csproj.CoreCompileInputs.cache
+C:\ExerciciosAlgoritmosCsharp\Ex28\obj\Debug\net8.0\Ex28.sourcelink.json
+C:\ExerciciosAlgoritmosCsharp\Ex28\obj\Debug\net8.0\Ex28.dll
+C:\ExerciciosAlgoritmosCsharp\Ex28\obj\Debug\net8.0\refint\Ex28.dll
+C:\ExerciciosAlgoritmosCsharp\Ex28\obj\Debug\net8.0\Ex28.pdb
+C:\ExerciciosAlgoritmosCsharp\Ex28\obj\Debug\net8.0\Ex28.genruntimeconfig.cache
+C:\ExerciciosAlgoritmosCsharp\Ex28\obj\Debug\net8.0\ref\Ex28.dll
