@@ -31,7 +31,7 @@ static string LerNome()
 {
     while (true)
     {
-        string? data = Console.ReadLine();
+        string data = Console.ReadLine();
         if (!string.IsNullOrWhiteSpace(data))
         {
             // Expressão regular para permitir apenas letras e espaços
