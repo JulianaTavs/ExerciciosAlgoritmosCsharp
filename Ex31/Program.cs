@@ -13,6 +13,8 @@ int escolhaDoUsuario = LerNumero(1, 3);
 Random numeroAleatorio = new Random();
 int escolhaDoComputador = numeroAleatorio.Next(1, 4);
 
+Console.WriteLine($"Escolha do computador: {LerEscolhaDoComputador(escolhaDoComputador)}");
+
 if (escolhaDoComputador == escolhaDoUsuario)
 {
     Console.WriteLine("Empate!");
@@ -40,5 +42,20 @@ static int LerNumero(int min, int max)
         {
             Console.WriteLine($"Valor inválido. Favor digitar um número válido({min}-{max}): ");
         }
+    }
+}
+
+static string LerEscolhaDoComputador(int escolha)
+{
+    switch (escolha)
+    {
+        case 1:
+            return "PEDRA";
+        case 2:
+            return "PAPEL";
+        case 3:
+            return "TESOURA";
+        default:
+            return "Escolha inválida";
     }
 }
