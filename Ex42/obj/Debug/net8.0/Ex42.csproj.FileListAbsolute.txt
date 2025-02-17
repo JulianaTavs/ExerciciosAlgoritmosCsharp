@@ -1,0 +1,15 @@
+C:\ExerciciosAlgoritmosCsharp\Ex42\bin\Debug\net8.0\Ex42.exe
+C:\ExerciciosAlgoritmosCsharp\Ex42\bin\Debug\net8.0\Ex42.deps.json
+C:\ExerciciosAlgoritmosCsharp\Ex42\bin\Debug\net8.0\Ex42.runtimeconfig.json
+C:\ExerciciosAlgoritmosCsharp\Ex42\bin\Debug\net8.0\Ex42.dll
+C:\ExerciciosAlgoritmosCsharp\Ex42\bin\Debug\net8.0\Ex42.pdb
+C:\ExerciciosAlgoritmosCsharp\Ex42\obj\Debug\net8.0\Ex42.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExerciciosAlgoritmosCsharp\Ex42\obj\Debug\net8.0\Ex42.AssemblyInfoInputs.cache
+C:\ExerciciosAlgoritmosCsharp\Ex42\obj\Debug\net8.0\Ex42.AssemblyInfo.cs
+C:\ExerciciosAlgoritmosCsharp\Ex42\obj\Debug\net8.0\Ex42.csproj.CoreCompileInputs.cache
+C:\ExerciciosAlgoritmosCsharp\Ex42\obj\Debug\net8.0\Ex42.sourcelink.json
+C:\ExerciciosAlgoritmosCsharp\Ex42\obj\Debug\net8.0\Ex42.dll
+C:\ExerciciosAlgoritmosCsharp\Ex42\obj\Debug\net8.0\refint\Ex42.dll
+C:\ExerciciosAlgoritmosCsharp\Ex42\obj\Debug\net8.0\Ex42.pdb
+C:\ExerciciosAlgoritmosCsharp\Ex42\obj\Debug\net8.0\Ex42.genruntimeconfig.cache
+C:\ExerciciosAlgoritmosCsharp\Ex42\obj\Debug\net8.0\ref\Ex42.dll
