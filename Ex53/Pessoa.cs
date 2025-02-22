@@ -11,12 +11,14 @@ namespace Ex53
         public static int ContadorMulher = 0;
         public static double somaIdadeHomens = 0;
         public static double mulheresAcimaDeVinte = 0;
+
         public Pessoa()
         {
             Idade = LerIdade();   // Primeiro, lê e define a idade
             Genero = LerGenero(); // Depois, lê e define o gênero
             Nome = LerNome();     // Por fim, lê e define o nome
         }
+
         public int LerIdade()
         {
             System.Console.WriteLine("Qual a sua idade: ");
@@ -32,6 +34,7 @@ namespace Ex53
                 }
             }
         }
+
         public int LerGenero()
         {
             System.Console.WriteLine("Qual o seu gênero: ");
@@ -61,6 +64,7 @@ namespace Ex53
                 }
             }
         }
+
         public string LerNome()
         {
             Console.WriteLine("Qual o seu nome: ");
@@ -79,10 +83,12 @@ namespace Ex53
                 }
             }
         }
+
         public string ObterGeneroPorExtenso()
         {
             return Genero == 1 ? "Feminino" : "Masculino";
         }
+
         public override string ToString()
         {
             return "Nome: " + Nome + "; " +
