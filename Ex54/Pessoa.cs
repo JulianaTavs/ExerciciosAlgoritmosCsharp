@@ -7,7 +7,6 @@ namespace Ex54
 
         public static int QtdePessoasAcimaDeNoventa;
         public static int QtdePessoasComMenosdeCinquentaKg;
-
         public static int QtdePessoasComMaisDeCemKg;
 
         public Pessoa()
@@ -57,7 +56,6 @@ namespace Ex54
                     Console.WriteLine("Valor inválido. favor digitar novamente: ");
                 }
             }
-
         }
     }
 }
