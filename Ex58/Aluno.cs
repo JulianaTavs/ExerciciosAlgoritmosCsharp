@@ -2,6 +2,7 @@ namespace Ex58
 {
     class Aluno
     {
+
         public int Idade;
 
         public Aluno()
