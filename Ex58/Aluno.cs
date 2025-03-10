@@ -3,10 +3,12 @@ namespace Ex58
     class Aluno
     {
         public int Idade;
+
         public Aluno()
         {
             Idade = LerIdade();
         }
+
         public int LerIdade()
         {
             while (true)
@@ -21,6 +23,7 @@ namespace Ex58
                 }
             }
         }
+
         public override string ToString()
         {
             return $"{Idade}";
