@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ExerciciosAlgoritmosCsharp\\Ex58\\Ex58.csproj",
+      "projectUniqueName": "D:\\ExerciciosAlgoritmosCsharp\\Ex58\\Ex58.csproj",
       "projectName": "Ex58",
-      "projectPath": "C:\\ExerciciosAlgoritmosCsharp\\Ex58\\Ex58.csproj",
+      "projectPath": "D:\\ExerciciosAlgoritmosCsharp\\Ex58\\Ex58.csproj",
       "packagesPath": "C:\\Users\\juu_t\\.nuget\\packages\\",
-      "outputPath": "C:\\ExerciciosAlgoritmosCsharp\\Ex58\\obj\\",
+      "outputPath": "D:\\ExerciciosAlgoritmosCsharp\\Ex58\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\juu_t\\AppData\\Roaming\\NuGet\\NuGet.Config"
