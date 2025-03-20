@@ -49,8 +49,6 @@ Console.WriteLine($"Qtde de idades cadastradas: {pessoas.Count}");
 
 static char LerContinuar()
 {
-
-
     while (true)
     {
         string continuar = Console.ReadLine().Trim().ToLower();
