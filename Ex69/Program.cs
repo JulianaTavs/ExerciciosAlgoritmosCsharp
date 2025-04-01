@@ -21,14 +21,16 @@ foreach (double valor in progressao)
     somaTermos += valor;
 }
 
-Console.WriteLine($"Soma entre todos os valores da sequência: {somaTermos}");
+Console.WriteLine($"Soma entre todos os valores da sequência: {somaTermos:F1}");
 
 Console.Write($"Sequência: ");
 
 foreach (double valor in progressao)
 {
-    Console.Write($"{valor} ");
+    Console.Write($"{valor:F1} ");
 }
+
+Console.WriteLine();
 
 double ObterNumero()
 {
@@ -40,7 +42,7 @@ double ObterNumero()
         }
         else
         {
-            Console.WriteLine("Valor inválido. Favor digite novamente o primeiro termo da progressão aritmética: ");
+            Console.WriteLine("Valor inválido. Favor digite novamente: ");
         }
     }
 }
