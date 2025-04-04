@@ -1,0 +1,15 @@
+D:\ExerciciosAlgoritmosCsharp\Ex73\bin\Debug\net8.0\Ex73.exe
+D:\ExerciciosAlgoritmosCsharp\Ex73\bin\Debug\net8.0\Ex73.deps.json
+D:\ExerciciosAlgoritmosCsharp\Ex73\bin\Debug\net8.0\Ex73.runtimeconfig.json
+D:\ExerciciosAlgoritmosCsharp\Ex73\bin\Debug\net8.0\Ex73.dll
+D:\ExerciciosAlgoritmosCsharp\Ex73\bin\Debug\net8.0\Ex73.pdb
+D:\ExerciciosAlgoritmosCsharp\Ex73\obj\Debug\net8.0\Ex73.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExerciciosAlgoritmosCsharp\Ex73\obj\Debug\net8.0\Ex73.AssemblyInfoInputs.cache
+D:\ExerciciosAlgoritmosCsharp\Ex73\obj\Debug\net8.0\Ex73.AssemblyInfo.cs
+D:\ExerciciosAlgoritmosCsharp\Ex73\obj\Debug\net8.0\Ex73.csproj.CoreCompileInputs.cache
+D:\ExerciciosAlgoritmosCsharp\Ex73\obj\Debug\net8.0\Ex73.sourcelink.json
+D:\ExerciciosAlgoritmosCsharp\Ex73\obj\Debug\net8.0\Ex73.dll
+D:\ExerciciosAlgoritmosCsharp\Ex73\obj\Debug\net8.0\refint\Ex73.dll
+D:\ExerciciosAlgoritmosCsharp\Ex73\obj\Debug\net8.0\Ex73.pdb
+D:\ExerciciosAlgoritmosCsharp\Ex73\obj\Debug\net8.0\Ex73.genruntimeconfig.cache
+D:\ExerciciosAlgoritmosCsharp\Ex73\obj\Debug\net8.0\ref\Ex73.dll
