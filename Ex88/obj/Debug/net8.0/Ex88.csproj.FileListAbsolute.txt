@@ -1,0 +1,15 @@
+D:\ExerciciosAlgoritmosCsharp\Ex88\bin\Debug\net8.0\Ex88.exe
+D:\ExerciciosAlgoritmosCsharp\Ex88\bin\Debug\net8.0\Ex88.deps.json
+D:\ExerciciosAlgoritmosCsharp\Ex88\bin\Debug\net8.0\Ex88.runtimeconfig.json
+D:\ExerciciosAlgoritmosCsharp\Ex88\bin\Debug\net8.0\Ex88.dll
+D:\ExerciciosAlgoritmosCsharp\Ex88\bin\Debug\net8.0\Ex88.pdb
+D:\ExerciciosAlgoritmosCsharp\Ex88\obj\Debug\net8.0\Ex88.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExerciciosAlgoritmosCsharp\Ex88\obj\Debug\net8.0\Ex88.AssemblyInfoInputs.cache
+D:\ExerciciosAlgoritmosCsharp\Ex88\obj\Debug\net8.0\Ex88.AssemblyInfo.cs
+D:\ExerciciosAlgoritmosCsharp\Ex88\obj\Debug\net8.0\Ex88.csproj.CoreCompileInputs.cache
+D:\ExerciciosAlgoritmosCsharp\Ex88\obj\Debug\net8.0\Ex88.sourcelink.json
+D:\ExerciciosAlgoritmosCsharp\Ex88\obj\Debug\net8.0\Ex88.dll
+D:\ExerciciosAlgoritmosCsharp\Ex88\obj\Debug\net8.0\refint\Ex88.dll
+D:\ExerciciosAlgoritmosCsharp\Ex88\obj\Debug\net8.0\Ex88.pdb
+D:\ExerciciosAlgoritmosCsharp\Ex88\obj\Debug\net8.0\Ex88.genruntimeconfig.cache
+D:\ExerciciosAlgoritmosCsharp\Ex88\obj\Debug\net8.0\ref\Ex88.dll
